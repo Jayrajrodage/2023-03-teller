@@ -470,6 +470,7 @@ contract CollateralManager is OwnableUpgradeable, ICollateralManager {
     }
 
     /**
+    * hello
      * @notice Checks the validity of a borrower's single collateral balance.
      * @param _borrowerAddress The address of the borrower holding the collateral.
      * @param _collateralInfo Additional information about the collateral asset.
